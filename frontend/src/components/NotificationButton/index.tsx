@@ -1,7 +1,7 @@
 import icon from '../../assets/img/notification-icon.svg';
-import './styles.css';
+import './style.css';
 
-function App() {
+function NotifyButton() {
     return (
         <div className="dsmeta-red-btn">
             <img src={icon} alt="Notificar" />
@@ -9,4 +9,4 @@ function App() {
     );
 }
 
-export default App
+export default NotifyButton;
