@@ -57,6 +57,7 @@
 
 .dsmeta-sales-table tbody tr:hover>td {
     background-color: #384459;
+    cursor: pointer;
 }
 
 /*MEXENDO COM LINHAS PARES E ÍMPARES*/
