@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\elian\Documents\Segurador\Documentos\dev\Spring+React\DSMeta\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
